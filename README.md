@@ -1,2 +1,2 @@
 # kazaplab-rspec
-Primeiro kazaplab focado em TDD, BDD utilizando RSpec
+Primeiro kazaplab focado em TDD e BDD utilizando RSpec.
